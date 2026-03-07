@@ -97,5 +97,10 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
-
-Build archive/
+Assets/TextMesh?Pro/** linguist-generated
+Build archive/Build_1.zip
+Build archive/Build_2.zip
+Build archive/Build_3.zip
+Build archive/Build_4.zip
+Build archive/Build_6.zip
+Build archive/Build_7.zip
